@@ -54,6 +54,7 @@ Most car apps do **one** thing — fuel tracking, or service history, or documen
 | "Where are all my service bills?" | Organized service records + expense bills with photos |
 | "How much am I *really* spending on my car?" | Beautiful graphs + bar charts for fuel, service & total spend |
 | "How much should I recharge in this EV app for 80%?" | EV Charging Calculator tells you the exact ₹ amount |
+| "Any pending challans / fines on this vehicle?" | Instant e-Challan check with clean-record status |
 | "Where are my RC / Insurance / PUC papers?" | Secure on-device document vault + one-tap share |
 | "I need full history for resale" | One-tap detailed export report |
 | "What mileage is my car really giving?" | Automatic mileage prediction from your fuel logs |
@@ -88,6 +89,7 @@ Most car apps do **one** thing — fuel tracking, or service history, or documen
 Search complete vehicle information **just by entering the registration number**.
 
 - Instant lookup — owner details, registration, fuel type, RTO & more*
+- **Traffic e-Challan / fines check** — see pending challans and clean-record status right on the result
 - Perfect before buying a used car or verifying details
 - Clean, readable result cards — no clutter
 
@@ -211,13 +213,9 @@ ICE, Hybrid, CNG or EV — AUTO-TRACK adapts to your vehicle type.
 
 ## 📲 Installation
 
-> 🎉 **v2.0 is OUT!** Download the APK from [Releases](https://github.com/SAM0-0/AUTO-TRACK/releases/latest) and install.
+> 🚀 **Going public very soon!** v2.0 APK + source code drop together on launch day — grab it from [Releases](https://github.com/SAM0-0/AUTO-TRACK/releases) when it lands.
 
-📦 **Direct download:** [auto-track-v2.apk](https://github.com/SAM0-0/AUTO-TRACK/releases/download/v2.0/auto-track-v2.apk) (16 MB)
-
-> On install, Android may ask you to allow "Install unknown apps" — that's normal for APKs outside the Play Store.
-
-⭐ **Star + Watch this repo** for future updates.
+⭐ **Star + Watch this repo** so you get notified the moment v2.0 drops.
 
 ```bash
 # Once public, cloning + running (devs):
