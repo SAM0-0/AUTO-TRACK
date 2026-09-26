@@ -213,9 +213,13 @@ ICE, Hybrid, CNG or EV — AUTO-TRACK adapts to your vehicle type.
 
 ## 📲 Installation
 
-> 🚀 **Going public very soon!** v2.0 APK + source code drop together on launch day — grab it from [Releases](https://github.com/SAM0-0/AUTO-TRACK/releases) when it lands.
+> 🎉 **v2.0 APK is OUT!** Download it from [Releases](https://github.com/SAM0-0/AUTO-TRACK/releases/latest) and install.
 
-⭐ **Star + Watch this repo** so you get notified the moment v2.0 drops.
+📦 **Direct download:** [auto-track-v2.apk](https://github.com/SAM0-0/AUTO-TRACK/releases/download/v2.0/auto-track-v2.apk) (16 MB)
+
+> On install, Android may ask you to allow "Install unknown apps" — that's normal for APKs outside the Play Store.
+
+> 🚀 **Source code goes public very soon.** Star + Watch this repo so you don't miss it.
 
 ```bash
 # Once public, cloning + running (devs):
