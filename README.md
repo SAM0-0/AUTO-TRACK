@@ -1,6 +1,6 @@
 # 🚗 AUTO-TRACK
 
-> 🚀 **GOING PUBLIC VERY SOON! — v1.0 launch is almost here. Star ⭐ this repo to get notified on release day!**
+> 🚀 **GOING PUBLIC VERY SOON! — v2.0 launch is almost here. Star ⭐ this repo to get notified on release day!**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform: Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/SAM0-0/AUTO-TRACK)
@@ -29,6 +29,8 @@ No spreadsheets. No forgotten expiry dates. No guessing EV recharge amounts. Jus
   - [8. 📊 Spending Analytics](#8--spending-analytics)
   - [9. 🔋 EV Charging Calculator](#9--ev-charging-calculator)
   - [10. ⚡ Charging Session Tracker](#10--charging-session-tracker)
+  - [11. 💾 Backup & Restore](#11--backup--restore)
+  - [12. 🛣️ Mileage Prediction](#12--mileage-prediction)
 - [🔋 Built for EV Owners](#-built-for-ev-owners)
 - [🔒 Privacy First](#-privacy-first)
 - [📲 Installation](#-installation)
@@ -54,6 +56,8 @@ Most car apps do **one** thing — fuel tracking, or service history, or documen
 | "How much should I recharge in this EV app for 80%?" | EV Charging Calculator tells you the exact ₹ amount |
 | "Where are my RC / Insurance / PUC papers?" | Secure on-device document vault + one-tap share |
 | "I need full history for resale" | One-tap detailed export report |
+| "What mileage is my car really giving?" | Automatic mileage prediction from your fuel logs |
+| "What if I lose my phone / change phones?" | One-tap Backup & Restore — all your data, safe with you |
 
 ---
 
@@ -126,7 +130,7 @@ Your glovebox, digitized — and 100% private.
 
 - Store RC, Insurance, PUC, Driving License, bills & more
 - **One-tap share** when traffic police / RTO / buyer asks
-- 🔒 **Everything stays on YOUR phone. Nothing goes to any server. Ever.**
+- 🔒 **Nothing goes to any server at all. Everything stays on your phone, locally, all the time. 0 data collection.**
 
 ### 6. 💸 Expenses & Bills
 
@@ -172,6 +176,22 @@ For EV owners, a dedicated logbook:
 - Monitor charging costs vs time
 - Combine with analytics to see true cost-per-km of your EV
 
+### 11. 💾 Backup & Restore
+
+Your entire garage, safe — no matter what happens to your phone.
+
+- **One-tap backup** of vehicles, services, fuel logs, expenses, documents & settings
+- **Easy restore** on a new phone or after reinstall — back up and running in minutes
+- Your backup file stays **with you** — private, local, under your control
+
+### 12. 🛣️ Mileage Prediction
+
+Know your real mileage — automatically predicted from your fuel logs.
+
+- Calculates **fuel efficiency & predicted mileage** from your fill-ups + odometer readings
+- Helps you spot drops in mileage early (low tyre pressure? service due? driving style?)
+- Works alongside fuel tracking + analytics for true cost-per-km
+
 ---
 
 ## 🔋 Built for EV Owners
@@ -189,25 +209,18 @@ ICE, Hybrid, CNG or EV — AUTO-TRACK adapts to your vehicle type.
 
 ## 🔒 Privacy First
 
-- 📱 **On-device storage** for documents, bills & personal data
-- 🚫 **No uploads to servers** for your private files
-- 👀 You control what you share, when you share it
-
-> Vehicle lookup & fuel prices need internet (they fetch public data). Your documents and personal logs never leave your phone.
+- 📱 **100% on-device storage** for documents, bills, logs & personal data
+- 🚫 **Nothing goes to any server at all. Everything remains on your phone, locally, all the time.**
+- 📊 **0 data collection. Period.**
+- 👀 You control what you share, when you share it — one-tap share only when *you* choose to
 
 ---
 
 ## 📲 Installation
 
-> 🚀 **Going public very soon!** v1.0 APK + Play Store link will appear here on launch day.
+> 🚀 **Going public very soon!** v2.0 APK will appear under [Releases](https://github.com/SAM0-0/AUTO-TRACK/releases) on launch day.
 
-**Planned distribution:**
-
-- [ ] GitHub Releases (APK) — `https://github.com/SAM0-0/AUTO-TRACK/releases`
-- [ ] Google Play Store — *link coming soon*
-- [ ] Direct APK download — *coming with v1.0*
-
-⭐ **Star + Watch this repo** so you get notified the moment v1.0 drops.
+⭐ **Star + Watch this repo** so you get notified the moment v2.0 drops.
 
 ```bash
 # Once public, cloning + running (devs):
@@ -226,11 +239,11 @@ git clone https://github.com/SAM0-0/AUTO-TRACK.git
 - [x] On-device document vault
 - [x] Export reports + spending charts
 - [x] EV calculator + charging tracker
-- [ ] v1.0 Public Release 🚀
-- [ ] Play Store launch
+- [x] Backup & Restore
+- [x] Mileage prediction from fuel logs
+- [ ] v2.0 Public Release 🚀
 - [ ] Multi-vehicle garage support improvements
-- [ ] Backup / restore (encrypted, user-controlled)
-- [ ] Mileage insights + service predictions
+- [ ] Service predictions
 
 Have an idea? [Open an issue](https://github.com/SAM0-0/AUTO-TRACK/issues) — we'd love to hear it.
 
@@ -238,7 +251,7 @@ Have an idea? [Open an issue](https://github.com/SAM0-0/AUTO-TRACK/issues) — w
 
 ## 🤝 Contributing
 
-AUTO-TRACK is going public very soon, and contributions will open with v1.0!
+AUTO-TRACK is going public very soon, and contributions will open with v2.0!
 
 1. Fork the repo
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -260,7 +273,7 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 **Maintainer:** [@SAM0-0](https://github.com/SAM0-0)
 
 - 🐛 Bugs / 💡 Features: [Issues](https://github.com/SAM0-0/AUTO-TRACK/issues)
-- ⭐ Updates: [Releases](https://github.com/SAM0-0/AUTO-TRACK/releases) (v1.0 coming soon!)
+- ⭐ Updates: [Releases](https://github.com/SAM0-0/AUTO-TRACK/releases) (v2.0 coming soon!)
 - 📦 Repo: `https://github.com/SAM0-0/AUTO-TRACK`
 
 If AUTO-TRACK saves you time or money, please **star the repo** — it hugely helps an indie launch! ⭐
@@ -271,7 +284,6 @@ If AUTO-TRACK saves you time or money, please **star the repo** — it hugely he
 
 - Vehicle information depends on third-party / government data sources and availability.
 - Fuel prices are indicative and may vary slightly by city / pump.
-- Always verify critical documents (Insurance / PUC / RC) from official sources.
 - This app is a personal organizer — not a legal / RTO authority.
 
 ---
