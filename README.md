@@ -1,4 +1,8 @@
-# 🚗 AUTO-TRACK
+<p align="center">
+  <img src="assets/logo.png" width="180" alt="AUTO-TRACK Logo"/>
+</p>
+
+<h1 align="center">AUTO-TRACK</h1>
 
 > 🚀 **GOING PUBLIC VERY SOON! — v2.0 launch is almost here. Star ⭐ this repo to get notified on release day!**
 
@@ -31,6 +35,7 @@ No spreadsheets. No forgotten expiry dates. No guessing EV recharge amounts. Jus
   - [10. ⚡ Charging Session Tracker](#10--charging-session-tracker)
   - [11. 💾 Backup & Restore](#11--backup--restore)
   - [12. 🛣️ Mileage Prediction](#12--mileage-prediction)
+  - [13. 🚘 Multi-Vehicle Garage](#13--multi-vehicle-garage)
 - [🔋 Built for EV Owners](#-built-for-ev-owners)
 - [🔒 Privacy First](#-privacy-first)
 - [📲 Installation](#-installation)
@@ -59,6 +64,7 @@ Most car apps do **one** thing — fuel tracking, or service history, or documen
 | "I need full history for resale" | One-tap detailed export report |
 | "What mileage is my car really giving?" | Automatic mileage prediction from your fuel logs |
 | "What if I lose my phone / change phones?" | One-tap Backup & Restore — all your data, safe with you |
+| "I own a car + a bike / multiple vehicles?" | Multi-vehicle garage — each with its own records, reminders & stats |
 
 ---
 
@@ -187,6 +193,14 @@ Know your real mileage — automatically predicted from your fuel logs.
 - Helps you spot drops in mileage early (low tyre pressure? service due? driving style?)
 - Works alongside fuel tracking + analytics for true cost-per-km
 
+### 13. 🚘 Multi-Vehicle Garage
+
+Car + bike + EV? Keep them all in one garage.
+
+- Add **multiple vehicles** — cars, bikes, EVs, anything with a number plate
+- **One-tap switch** between active vehicles ("Set as Active")
+- Each vehicle keeps its **own** services, fuel logs, documents, reminders & analytics
+
 ---
 
 ## 🔋 Built for EV Owners
@@ -240,8 +254,9 @@ git clone https://github.com/SAM0-0/AUTO-TRACK.git
 - [x] EV calculator + charging tracker
 - [x] Backup & Restore
 - [x] Mileage prediction from fuel logs
-- [ ] v2.0 Public Release 🚀
-- [ ] Multi-vehicle garage support improvements
+- [x] Multi-vehicle garage support
+- [x] v2.0 APK Release
+- [ ] Source code goes public
 - [ ] Service predictions
 
 Have an idea? [Open an issue](https://github.com/SAM0-0/AUTO-TRACK/issues) — we'd love to hear it.
