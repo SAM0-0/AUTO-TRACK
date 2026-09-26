@@ -63,28 +63,21 @@ Most car apps do **one** thing — fuel tracking, or service history, or documen
 
 ## 📸 Screenshots
 
-> Replace the placeholder images below with your real screenshots. Just drop your PNGs/JPGs into `assets/screenshots/` with the same file names — no README edits needed after that.
-
-| Home / Dashboard | Vehicle Lookup | Service Records |
+| Garage Dashboard | Search Vehicle | My Vehicles |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/01-home.png" width="250" alt="Home Dashboard"/> | <img src="assets/screenshots/02-vehicle-lookup.png" width="250" alt="Vehicle Lookup"/> | <img src="assets/screenshots/03-service-records.png" width="250" alt="Service Records"/> |
+| <img src="assets/screenshots/01-garage-dashboard.jpg" width="250" alt="Garage Dashboard"/> | <img src="assets/screenshots/02-search-vehicle.png" width="250" alt="Search Vehicle"/> | <img src="assets/screenshots/03-vehicle-info.jpg" width="250" alt="My Vehicles"/> |
 
-| Smart Reminders | Fuel Tracking | Documents Vault |
+| RC Fitness Detail | Insurance Detail | Technical Specs |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/04-reminders.png" width="250" alt="Smart Reminders"/> | <img src="assets/screenshots/05-fuel.png" width="250" alt="Fuel Price Tracking"/> | <img src="assets/screenshots/06-documents.png" width="250" alt="Documents"/> |
+| <img src="assets/screenshots/04-rc-fitness.jpg" width="250" alt="RC Fitness Certificate"/> | <img src="assets/screenshots/05-insurance-detail.jpg" width="250" alt="Insurance Detail"/> | <img src="assets/screenshots/06-technical-specs.png" width="250" alt="Technical Specs"/> |
 
-| Expenses & Analytics | Export Report | EV Calculator |
+| Service + Analytics | Fuel Info + Mileage | Documents Vault |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/07-analytics.png" width="250" alt="Spending Analytics"/> | <img src="assets/screenshots/08-report.png" width="250" alt="Export Report"/> | <img src="assets/screenshots/09-ev-calculator.png" width="250" alt="EV Charging Calculator"/> |
+| <img src="assets/screenshots/07-service-records.png" width="250" alt="Service Records and Spend Analytics"/> | <img src="assets/screenshots/08-fuel-info.jpg" width="250" alt="Fuel Prices and Mileage"/> | <img src="assets/screenshots/09-documents.jpg" width="250" alt="Documents Vault"/> |
 
-| Charging Sessions | Dark Mode (if any) | Add Vehicle |
-|:---:|:---:|:---:|
-| <img src="assets/screenshots/10-charging-sessions.png" width="250" alt="Charging Sessions"/> | <img src="assets/screenshots/11-dark-mode.png" width="250" alt="Dark Mode"/> | <img src="assets/screenshots/12-add-vehicle.png" width="250" alt="Add Vehicle"/> |
-
-📁 **How to add screenshots:**
-1. Take screenshots from your phone (1080 x 2400 works best)
-2. Put them in `assets/screenshots/` as `01-home.png`, `02-vehicle-lookup.png`, etc.
-3. Commit + push — they show up here automatically
+| EV Charging Calculator | Backup & Export |
+|:---:|:---:|
+| <img src="assets/screenshots/10-ev-calculator.png" width="250" alt="EV Charging Calculator"/> | <img src="assets/screenshots/11-backup-export.png" width="250" alt="Backup and Export Menu"/> |
 
 ---
 
